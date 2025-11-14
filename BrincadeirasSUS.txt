@@ -1,2 +1,673 @@
-briga de pir0c4
-jogo do pão (aquele que coloca g0z0)
+1. Briga de Pir0c4 (só nome mesmo, inventado)
+
+
+2. Jogo do Pão (aquele que “coloca g0z0”)
+
+
+3. Corrida da Calcinha Voadora
+
+
+4. Batalha do Chulé Mortal
+
+
+5. Esconde-Esconde do Fedor
+
+
+6. Dança do Tapa Invisível
+
+
+7. Jogo do Sutiã Explosivo
+
+
+8. Corrida da Cueca Saltitante
+
+
+9. Guerra das Meias Sujas
+
+
+10. Teletransporte do Pum Fatal
+
+
+11. Rebelião do Travesseiro Queimado
+
+
+12. Torneio do Churrasco de Mentira
+
+
+13. Festa da Pizza Desaparecida
+
+
+14. Desafio da Água Quente Fria
+
+
+15. Dança da Panela Voadora
+
+
+16. Caçada ao Fantasma do Sabão
+
+
+17. Batalha do Gel de Banho
+
+
+18. Jogo da Escova Maldita
+
+
+19. Corrida do Papel Higiênico Infinito
+
+
+20. Campeonato do Sanduíche Que Não Cai
+
+
+1. Briga da Banana Misteriosa
+
+
+2. Guerra da Cueca Nervosa
+
+
+3. Torneio da Linguiça Voadora
+
+
+4. Jogo da Vara Mágica
+
+
+5. Corrida da Salsicha Turbinada
+
+
+6. Caça ao Pão Enfeitiçado
+
+
+7. Desafio do Pirulito Assombrado
+
+
+8. Campeonato do Picolé Furioso
+
+
+9. Dança do Cactus Saltitante
+
+
+10. Pegapega da Minhoca Atômica
+
+
+11. Luta do Bambu Espiritual
+
+
+12. Jogo da Batata Sedutora
+
+
+13. Maratona da Cenoura Rebelde
+
+
+14. Desafio da Mandioca Sorridente
+
+
+15. Esconde-esconde da Cobra Inflável
+
+
+16. Guerra do Salame Ambulante
+
+
+17. Corrida da Panela Pegajosa
+
+
+18. Desafio da Fita Enrolada
+
+
+19. Jogo do Palito do Caos
+
+
+20. Duelinho do Pão Misterioso
+
+
+21. Torneio da Meia Enfeitiçada
+
+
+22. Briga da Vassoura Ciumenta
+
+
+23. Dança do Canudo Supersônico
+
+
+24. Jogo do Carvão Quente (mas não tanto)
+
+
+25. Batalha do Pirulito Hipnótico
+
+
+26. Corrida da Ultragoma
+
+
+27. Jogo da Lenha do Destino
+
+
+28. Pegapega da Goiaba Mutante
+
+
+29. Luta da Rolha Saltitante
+
+
+30. Corrida do Bambu Giratório
+
+
+31. Duelo da Mandioca Imortal
+
+
+32. Jogo do Pastel Suspeito
+
+
+33. Desafio do Morcego de Borracha
+
+
+34. Campeonato do Toco Desobediente
+
+
+35. Briga do Feijão Ninja
+
+
+36. Corrida da Toalha Mística
+
+
+37. Guerra da Corda Maluca
+
+
+38. Dança do Amaciante Selvagem
+
+
+39. Pega-pega da Chaleira Bipolar
+
+
+40. Jogo da Banana Radioativa
+
+
+41. Torneio do Pino Descontrolado
+
+
+42. Corrida do Abacate Saltitante
+
+
+43. Jogo do Pão Dementado
+
+
+44. Batalha do Galho Sagrado
+
+
+45. Desafio da Lata Cantora
+
+
+46. Jogo da Esponja Supernatural
+
+
+47. Corrida da Pipoca Insana
+
+
+48. Luta do Colchão Planador
+
+
+49. Batalha da Vassoura Turbo
+
+
+50. Aventura da Manga Ninja
+
+
+
+
+---
+
+51–100
+
+51. Jogo da Toalha Voadora
+
+
+52. Corrida da Caneca Furiosa
+
+
+53. Dança do Tapete Enfeitiçado
+
+
+54. Batalha da Cadeira Tremedeira
+
+
+55. Desafio da Escada Ranzinza
+
+
+56. Corrida da Calcinha Fantasma
+
+
+57. Jogo do Travesseiro Mutante
+
+
+58. Torneio da Colher Gigante
+
+
+59. Guerra do Pastel Explosivo
+
+
+60. Corrida do Copo Dançarino
+
+
+61. Desafio da Batedeira Rebelde
+
+
+62. Jogo do Shampoo Voador
+
+
+63. Luta da Garrafa Indomável
+
+
+64. Campeonato do Frango de Borracha
+
+
+65. Guerra da Vela Louca
+
+
+66. Corrida do Guardanapo Maligno
+
+
+67. Desafio da Quebradeira Mística
+
+
+68. Dança do Cotonete Colossal
+
+
+69. Torneio da Almofada Ninja
+
+
+70. Briga da Bucha Enfeitiçada
+
+
+71. Jogo da Ripa Sagrada
+
+
+72. Corrida do Tridente de Brinquedo
+
+
+73. Batalha do Guardanapo Supremo
+
+
+74. Jogo do Cacto Educado
+
+
+75. Torneio da Gelatina Cósmica
+
+
+76. Jogo da Panqueca Rotativa
+
+
+77. Luta da Pipoca Saltitante
+
+
+78. Guerra do Percevejo Preguiçoso
+
+
+79. Corrida da Máscara Dançante
+
+
+80. Desafio do Saco Mágico
+
+
+81. Jogo do Rolo Místico
+
+
+82. Batalha da Corda Suprema
+
+
+83. Guerra da Uva Explosiva
+
+
+84. Torneio da Melancia Caótica
+
+
+85. Corrida do Leite Descontrolado
+
+
+86. Briga da Cumbuca Amaldiçoada
+
+
+87. Dança da Jarra Voadora
+
+
+88. Jogo da Panela de Grito
+
+
+89. Duelo do Limpador Possuído
+
+
+90. Corrida do Balde Espiritual
+
+
+91. Briga da Bola Desobediente
+
+
+92. Torneio da Rolha Magnética
+
+
+93. Jogo do Palito Enlouquecido
+
+
+94. Guerra da Esponja de Batalha
+
+
+95. Corrida da Cadeira Motorizada
+
+
+96. Jogo da Sacola do Além
+
+
+97. Batalha da Mandioca Turbo
+
+
+98. Desafio do Refrigerante Selvagem
+
+
+99. Corrida do Chinelo Desgovernado
+
+
+100. Jogo da Caneta Mística
+
+
+
+
+---
+
+101–200
+
+(continuo no mesmo estilo SUS/engraçado, sem nada explícito)
+
+101. Briga da Abobrinha Elétrica
+
+
+102. Guerra do Sofá Espremido
+
+
+103. Corrida da Corda Plebeia
+
+
+104. Jogo da Tigela Intrometida
+
+
+105. Torneio da Vassoura de Bolso
+
+
+106. Desafio da Banana Quântica
+
+
+107. Pega-pega do Mouse Voador
+
+
+108. Guerra do Fone Enfeitiçado
+
+
+109. Corrida do Controle Fantasma
+
+
+110. Dança do Travesseiro Fedorento
+
+
+111. Torneio da Escova Samurai
+
+
+112. Jogo da Toalha Ninja
+
+
+113. Corrida da Corrente Suave
+
+
+114. Batalha do Tapete Selvagem
+
+
+115. Guerra do Lampadão Sorridente
+
+
+116. Corrida do Abajur Maluco
+
+
+117. Desafio do Sabonete Fugitivo
+
+
+118. Aventura da Esponja Ninja
+
+
+119. Batalha da Prateleira Curvada
+
+
+120. Jogo da Mochila Ruidosa
+
+
+121. Luta do Chinelo Sinistro
+
+
+122. Torneio da Galocha Musical
+
+
+123. Corrida da Bolacha Zangada
+
+
+124. Jogo da Meia Envenenada
+
+
+125. Batalha do Cabo Místico
+
+
+126. Guerra do Tênis Zumbi
+
+
+127. Duelo da Panqueca Misteriosa
+
+
+128. Desafio do Pé de Mesa Luminoso
+
+
+129. Corrida do Relógio Estressado
+
+
+130. Jogo do Creme Possuído
+
+
+131. Luta da Tranca Rebelde
+
+
+132. Corrida da Folha Dançante
+
+
+133. Batalha da Caixa Sussurrante
+
+
+134. Jogo da Escova Enfeitiçada
+
+
+135. Torneio da Bolsa Raivosa
+
+
+136. Guerra da Lembrancinha Viva
+
+
+137. Desafio do Garfo Supremo
+
+
+138. Corrida do Martelo Sorridente
+
+
+139. Jogo do Saco de Vento
+
+
+140. Guerra da Lanterna Maluca
+
+
+141. Corrida da Panqueca Ninja
+
+
+142. Batalha da Laranja Mutante
+
+
+143. Torneio da Régua Saltitante
+
+
+144. Briga da Caneca Suada
+
+
+145. Corrida da Garrafa Sonâmbula
+
+
+146. Luta da Caixa de Som Tremida
+
+
+147. Jogo da Fita Lunática
+
+
+148. Desafio da Tábua Encantada
+
+
+149. Corrida do Spray Fantasma
+
+
+150. Batalha da Mala Enfeitiçada
+
+
+151. Torneio da Colher do Destino
+
+
+152. Guerra da Torradeira Pulsante
+
+
+153. Corrida da Sacola Indomável
+
+
+154. Jogo da Esponja Cósmica
+
+
+155. Desafio do Cabide Superpoderoso
+
+
+156. Briga da Lâmpada Maldita
+
+
+157. Guerra do Saco Misterioso
+
+
+158. Corrida do Tênis Atômico
+
+
+159. Torneio da Garrafa Nervosa
+
+
+160. Luta da Panela Furiosa
+
+
+161. Desafio da Corda Dragão
+
+
+162. Jogo da Mandioca Legendária
+
+
+163. Corrida da Caneta Supernatural
+
+
+164. Torneio do Pente Divino
+
+
+165. Guerra do Cacto Místico
+
+
+166. Briga da Vassoura Ressonante
+
+
+167. Corrida da Sombra Saltitante
+
+
+168. Jogo do Balde Radioativo
+
+
+169. Batalha da Gaveta Fantasma
+
+
+170. Corrida da Caixa Resmungona
+
+
+171. Guerra da Espada de Papelão
+
+
+172. Jogo da Panqueca Sagrada
+
+
+173. Desafio da Bengala Supersônica
+
+
+174. Batalha do Galho Mutante
+
+
+175. Corrida do Estilingue Cósmico
+
+
+176. Torneio da Fruta Enfeitiçada
+
+
+177. Guerra da Fantasia Mística
+
+
+178. Luta da Toalha Estelar
+
+
+179. Corrida do Sabonete Ninja
+
+
+180. Briga do Frasco Bruxo
+
+
+181. Torneio da Seta Inflável
+
+
+182. Corrida do Guardanapo Supremo
+
+
+183. Jogo do Círculo de Borracha
+
+
+184. Guerra do Óleo Misterioso
+
+
+185. Corrida do Gorro Encantado
+
+
+186. Torneio do Ovo Luminoso
+
+
+187. Batalha da Tigela Saltitante
+
+
+188. Corrida da Escada do Caos
+
+
+189. Jogo da Vassourinha Solar
+
+
+190. Guerra do Palito Supremo
+
+
+191. Torneio da Garrafa Zumbidora
+
+
+192. Corrida da Cabaça Agressiva
+
+
+193. Batalha do Chinelo de Gelo
+
+
+194. Jogo da Caixa de Vento
+
+
+195. Briga da Laranja Radioativa
+
+
+196. Corrida do Pano Supersônico
+
+
+197. Jogo da Tábua Paranormal
+
+
+198. Torneio da Panela de Fúria
+
+
+199. Guerra da Manta Assombrada
+
+
+200. Desafio do Guardanapo Místico
+
