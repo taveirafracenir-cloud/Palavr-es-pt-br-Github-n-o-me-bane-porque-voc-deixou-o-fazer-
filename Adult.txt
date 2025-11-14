@@ -1,0 +1,327 @@
+# Palavrões
+badword1
+badword2
+badword3
+
+# Categoria: conteúdo adulto
+adult/*
+porn/*
+nsfw/*
+sex/*
+xxx/*
+18plus/*
+explicit/*
+
+# Categoria: sites arriscados
+malware/*
+phishing/*
+scam/*
+illegal/*
+adultsite-alpha.com
+xxxplanet-zone.net
+nsfwworldhub.org
+hotnighttube.xyz
+explicit-streaming-center.io
+redmoon-adults.net
+darkrose-nsfw.com
+hotdreamerhub.org
+wildpleasuretube.info
+nightvision-adultportal.xyz
+1. redmoon-xxx.com
+
+
+2. hotdreamhub.net
+
+
+3. nsfwgalaxy.org
+
+
+4. midnightpleasure.xyz
+
+
+5. adultloungeonline.io
+
+
+6. wildrosefantasy.net
+
+
+7. xnightvisionhub.com
+
+
+8. dreamlusttube.org
+
+
+9. xxxparadiseland.net
+
+
+10. spicyplanetzone.xyz
+
+
+11. darkdesirestream.com
+
+
+12. neonlustportal.net
+
+
+13. explicitdreams.org
+
+
+14. velvetnightxxx.info
+
+
+15. heatwave-adults.com
+
+
+16. softpleasureclub.net
+
+
+17. flamefantasytube.org
+
+
+18. nsfwworldwide.xyz
+
+
+19. nightfalllust.com
+
+
+20. glowxxxnetwork.net
+
+
+21. lunarpleasureportal.org
+
+
+22. firestream-adulttube.com
+
+
+23. edenfantasycore.net
+
+
+24. spicyhotlounge.info
+
+
+25. lunarxxxzone.org
+
+
+26. cyberpleasureworld.com
+
+
+27. neonnsfwstream.net
+
+
+28. velvetlustplanet.org
+
+
+29. dreamheatnight.xyz
+
+
+30. adultzoneuniverse.com
+
+
+31. wildfantasyline.net
+
+
+32. matrixlustwave.org
+
+
+33. purexxxgalaxy.net
+
+
+34. deepnightstream.com
+
+
+35. dreamdesiretube.org
+
+
+36. spicyvisionxxx.xyz
+
+
+37. softmoonpleasure.net
+
+
+38. xfirefantasyhub.com
+
+
+39. velvetcorexxx.org
+
+
+40. dreamwave-adult.info
+
+
+41. neonlustclub.net
+
+
+42. wildheatstream.org
+
+
+43. edenxxxnight.com
+
+
+44. adultparadise-zone.info
+
+
+45. cyberlustplanet.net
+
+
+46. lucidxxxportal.org
+
+
+47. wildmoonadults.xyz
+
+
+48. redheatfantasy.com
+
+
+49. flamevisionxxx.org
+
+
+50. neonworldnsfw.net
+
+
+51. xxxuniverseportal.com
+
+
+52. heatnightstudio.net
+
+
+53. explicitlusthall.org
+
+
+54. dreamcore-hot.xyz
+
+
+55. adultmatrixvision.com
+
+
+56. spicyrosestream.net
+
+
+57. wildvisionxxx.org
+
+
+58. edenfantasyxxx.xyz
+
+
+59. nightgalaxyadults.com
+
+
+60. velvetdreamhub.net
+
+
+61. neonxplanet.org
+
+
+62. heatflowxxx.xyz
+
+
+63. lunaradultvision.net
+
+
+64. midnightfantasycore.com
+
+
+65. glowpleasurehouse.net
+
+
+66. cybernightxxx.org
+
+
+67. fantasyheatwave.com
+
+
+68. dreamlustonline.net
+
+
+69. wildedenxxx.org
+
+
+70. firemoonfantasy.io
+
+
+71. explicitnightzone.net
+
+
+72. neonadultportal.org
+
+
+73. softxxxmatrix.info
+
+
+74. spicycorelust.net
+
+
+75. wildgalaxyadult.com
+
+
+76. nightwavefantasy.org
+
+
+77. xmatrixlust.net
+
+
+78. velvetnightuniverse.xyz
+
+
+79. glowadultsclub.org
+
+
+80. edenxxxplanet.com
+
+
+81. neonfantasynight.net
+
+
+82. flameadultzone.org
+
+
+83. wildxxxparadise.com
+
+
+84. lunarhotplanet.xyz
+
+
+85. dreamnightstream.org
+
+
+86. spicysoftlust.net
+
+
+87. neonworldxxx.org
+
+
+88. velvetplanetnight.com
+
+
+89. cyberxxxstudio.net
+
+
+90. fantasyedenhub.org
+
+
+91. heatmoonadults.xyz
+
+
+92. softnightpleasure.net
+
+
+93. xgalaxyfantasy.org
+
+
+94. edenadulthub.net
+
+
+95. dreammoonlust.com
+
+
+96. spicyedenxxx.org
+
+
+97. wildsoftfantasy.net
+
+
+98. heatstreamhot.com
+
+
+99. neonlustnight.org
+
+
+100. cyberfantasyxxx.net
